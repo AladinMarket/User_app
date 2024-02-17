@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aladin Market</string>
+    <string name="facebook_app_id">218759241232242</string>
+    <string name="fb_login_protocol_scheme">fb218759241232242</string>
+    <string name="facebook_client_token">684f60ea37a89d1667e28e105c15f745</string>
+</resources>
